@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">project1UI</string>
+    <string name="abt">At Hesburger, you\'ll be able to enjoy a delicious burger with a side order of friendly service.</string>
+    <string name="about">About</string>
+    <string name="contact">Contact information</string>
+    <string name="address">Karaliaus Mindaugo pr. 49, Kaunas</string>
+    <string name="phone">+37062069105</string>
+    <string name="email">kaunas.akropolis@hesburger.lt</string>
+    <string name="whours">Working hours</string>
+    <string name="whrs">Every day 10h-22h</string>
+</resources>
